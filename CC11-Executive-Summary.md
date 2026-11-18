@@ -1,29 +1,22 @@
-**17 November 2026**
+### **ISCI 3A12: 17 November 2026**
+
+# **Executive Summary: Northward Expansion of Black-Legged Ticks**
+
+**Group 11: Cassidy Barbour, Stefan Chin, Maria Konstantinovski, Ella Seymour, Avril Wu**
 
 
-**ISCI 3A12**
-
-**Executive Public Summary:** 
-
-**Northward Expansion of Black-Legged Ticks**
-
-**Group 11**
-
-**Cassidy Barbour, Stefan Chin, Maria Konstantinovski, Ella Seymour, Avril Wu**
-
-
-**Introduction**
+## **Introduction**
 
 
 As a response to warming climates, species, populations and entire ecosystems have expanded their habitable ranges. As species distributions shift, their impacts on environments change. The Black-legged-tick (BLT), Ixodes scapularis, exhibit this pattern. In Canada, BLTs are the primary vector of Borrelia burgdorferi, the bacteria responsible for Lyme disease (LD). As BLTs expanded northward, they populated  new regions of Canada, spreading the risk of LD transmission. Early diagnosis and treatment of LD is critical to prevent more serious complications, including musculoskeletal and neurological symptoms (Vandenberg 2026; Canada 2015).
 
-**Methods**
+## **Methods**
 
 
 To understand BLTs response to climate change, a literature review was conducted using studies from Google Scholar, PubMed and ScienceDirect. A statistical analysis was performed to understand how the incidence of BLTs has changed over time along with temperature. A Pearson correlation analysis and a linear regression model for Ontario was conducted to assess this relationship.
 
 
-**Results and Discussion**
+## **Results and Discussion**
 
 
 BLT incidences have been shown to increase throughout Ontario. In 2016 there were zero reported incidences, whereas in 2025 reported incidences increased to 3712. Similar trends have been seen among other southeast provinces in Figure 1. Pearson correlation tests show no significant relationship between BLT incidences and temperature in Ontario. The linear regression model showed that temperature on its own was a poor predictor for BLT incidences. This result is most likely due to the complexity of climate and species interactions. 
@@ -34,7 +27,7 @@ The literature review revealed the main factors, along with temperature, that su
 The observed expansion of BLTs can increase the risk of LD transmission throughout populations. This poses a threat to communities and regions that have not previously had experience with identifying and treating LD (Vandenburg 2026). 
 
 
-**Limitations**
+## **Limitations**
 
 
 The simplicity of the statistical analysis resulted in not all factors being considered, which caused discrepancies between the statistical analysis and literature review. Additionally, minimal data regarding the transmission and presence of B. burgdorferi in BLT make it difficult to draw conclusions on LD.
@@ -42,7 +35,7 @@ Conclusion
 The included literature agreed that climate change increases global temperatures, allowing for BLTs to establish populations in northern regions. Increasing temperatures are not the primary factor; mobile host species and precipitation contribute to expansion. The statistical analysis did not find a significant relationship between temperature and tick reports. However, seasonal data and main findings from the literature suggest that temperature alone does not impact tick abundance. This study suggests further research is needed on additional factors contributing to BLT distribution.
 
 
-**References**
+## **References**
 
 
 Canada, Public Health Agency of. 2015. “Lyme Disease: For Health Professionals.” Education and awareness. January 27. https://www.canada.ca/en/public-health/services/diseases/lyme-disease/health-professionals-lyme-disease.html.
