@@ -21,6 +21,8 @@ To understand BLTs response to climate change, a literature review was conducted
 
 BLT incidences have been shown to increase throughout Ontario. In 2016 there were zero reported incidences, whereas in 2025 reported incidences increased to 3712. Similar trends have been seen among other southeast provinces in Figure 1. Pearson correlation tests show no significant relationship between BLT incidences and temperature in Ontario. The linear regression model showed that temperature on its own was a poor predictor for BLT incidences. This result is most likely due to the complexity of climate and species interactions. 
 
+Figure_1_summary.png
+
 *Figure 1. A map of Canada showing the total reported tick incidences (red dots) from 2016-2025. High-incidence regions are seen to be in the southeast portion of Canada, specifically Quebec, Ontario, and Nova Scotia; their historic range. The map was generated using RStudio.*
 
 The literature review revealed the main factors, along with temperature, that support the reproduction and establishment of BLTs. Movement of ticks is driven primarily by migratory songbirds over large distances and by local mammal populations for local colonization, both factors themselves expanding due to climate change  (Ogden et al. 2008; Tonelli & Dearborn 2019). Additionally, higher rates of precipitation stabilize humidity levels, decreasing the likelihood of death by drying out, especially in nymphs and larvae (Crandall et al. 2024; Dumas et al. 2022; Hammond-Collins et al. 2022). This allows ticks to be more capable of questing for hosts (Lou and Wu 2017). The overall expansion that occurs with all factors included results in a rapid northward spread of BLTs at predicted rates within 18-61km/year. 
