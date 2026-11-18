@@ -21,7 +21,7 @@ To understand BLTs response to climate change, a literature review was conducted
 
 BLT incidences have been shown to increase throughout Ontario. In 2016 there were zero reported incidences, whereas in 2025 reported incidences increased to 3712. Similar trends have been seen among other southeast provinces in Figure 1. Pearson correlation tests show no significant relationship between BLT incidences and temperature in Ontario. The linear regression model showed that temperature on its own was a poor predictor for BLT incidences. This result is most likely due to the complexity of climate and species interactions. 
 
-Figure_1_summary.png
+<img src="Figure_1_summary.png" alt="Time series of station and global annual temperature anomalies" width="500" style="border: 1px solid darkgrey">
 
 *Figure 1. A map of Canada showing the total reported tick incidences (red dots) from 2016-2025. High-incidence regions are seen to be in the southeast portion of Canada, specifically Quebec, Ontario, and Nova Scotia; their historic range. The map was generated using RStudio.*
 
